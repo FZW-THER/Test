@@ -44,5 +44,6 @@ public class SynchronizedLock implements Runnable{
 
         }
         System.out.println("finished");
+
     }
 }
